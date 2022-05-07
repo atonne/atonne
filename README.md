@@ -4,7 +4,7 @@
 ## 🙋‍♂️ About Me
 - 🌱 I’m currently learning Spring boot </br>
 - 📫 How to reach me: 5442654@gmail.com </br>
-- ⚡ Fun fact: I play basketball is my life eventhough i play not well :(
+- ⚡ Fun fact: Basketball is my life eventhough i play not well :(
 - 💬 Also i'm studying: Japanese and English
 
 ## 🚀 Languages and Tools:
