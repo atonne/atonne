@@ -2,7 +2,7 @@
 
 
 ## 🙋‍♂️ About Me
-- 🌱 I’m currently looking for an Intern Web Developer job </br>
+- 🌱 I’m currently looking for a Fresher Developer job </br>
 - 📫 How to reach me: ngthanhtoan19052001@gmail.com </br>
 - ⚡ Fun fact: Basketball is my life eventhough i play not well :(
 - 💬 Also i'm studying: Japanese and English
